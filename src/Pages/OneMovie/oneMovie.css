@@ -1,0 +1,15 @@
+
+.imgDiv{
+    position: relative;
+}
+.imgDiv::before{
+    position: absolute;
+    content: "";
+    background: rgba(0, 0, 0, 0.5); /* Adjust the color and opacity here */
+    z-index: 1;
+    top:0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+
+}

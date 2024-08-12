@@ -1,0 +1,7 @@
+.moviesContainer{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  /* padding: 16px; */
+  box-sizing: border-box; 
+  gap:2rem;
+}

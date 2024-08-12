@@ -1,0 +1,22 @@
+.searchDiv{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:18px;
+}
+.searchDiv h2{
+    font-size: 28px;
+}
+.searchForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    width: 100%;
+}
+.searchForm input{
+    width: 100%;
+    padding: 10px;
+}

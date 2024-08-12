@@ -1,0 +1,15 @@
+.movieCard{
+    box-shadow: 1px 4px 16px 1px rgba(82, 82, 108, 1);
+    
+}
+.movieImg{
+    position: relative;
+}
+
+.favMoive{
+    position: absolute;
+    z-index: 1;
+    left: 150%;
+    font-size: larger;
+    color:white
+}
